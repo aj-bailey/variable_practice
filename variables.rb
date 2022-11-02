@@ -12,3 +12,7 @@ checking_balance = 10.20
 saving_balance = 20.20
 credit_card = 30.40
 cash = 0.00
+
+has_debt = true
+wants_new_bike = true
+can_afford_bike = false
