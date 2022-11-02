@@ -16,3 +16,15 @@ cash = 0.00
 has_debt = true
 wants_new_bike = true
 can_afford_bike = false
+
+puts "Hello, my name is #{first_name} #{last_name} and I live in #{town}, #{state}!"
+
+state = "North Carolina"
+town = "Winston-Salem"
+
+puts "I'm originally from #{town}, #{state}."
+
+state = "Michigan"
+town = "Flint"
+
+puts "I was born in #{town}, #{state}."
