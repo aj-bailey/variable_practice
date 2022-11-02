@@ -7,3 +7,8 @@ age = 36
 birth_month = 9
 birth_day = 26
 birth_year = 1986
+
+checking_balance = 10.20
+saving_balance = 20.20
+credit_card = 30.40
+cash = 0.00
